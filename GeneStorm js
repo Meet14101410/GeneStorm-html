@@ -1,0 +1,11 @@
+function startGame() {
+    let score = 0;
+
+    for (let i = 0; i < 5; i++) {
+        if (Math.random() > 0.5) {
+            score++;
+        }
+    }
+
+    alert("🧬 GeneStorm Score: " + score + "/5");
+}
