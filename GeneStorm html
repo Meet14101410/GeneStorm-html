@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>GeneStorm</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>🧬 GeneStorm</h1>
+    <p>Catch the DNA strands and score points!</p>
+
+    <button onclick="startGame()">Start Game</button>
+
+    <script src="script.js"></script>
+</body>
+</html>
